@@ -1,0 +1,149 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    background-image: url('/src/assets/img/backgrounds/stars.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+    
+}
+
+/*imagens dos planetas*/
+#solImg{
+    float: left;
+    width: 650px;
+}
+#mercurioImg{
+    float: right;
+    width: 190px;
+}
+#venusImg{
+    float: left;
+    width: 230px;
+}
+#terraImg{
+    float: right;
+    width: 230px;
+}
+#marteImg{
+    float: left;
+    width: 190px;
+    margin-right: 20px;
+}
+#jupiterImg{
+    float: right;
+    width: 450px;
+}
+#saturnoImg{
+    float: left;
+    width: 400px;
+}
+#uranoImg{
+    float: right;
+    width: 330px;
+
+}
+#netunoImg{
+    float: left;
+    width: 330px;
+}
+#astros img{
+    margin-bottom: 35px;
+}
+span img{
+    width: 80px;
+    position: relative;
+    top: 10px;
+}
+
+
+/*astros*/
+#astros{
+    font-size: 20px;
+}
+#astros h3{
+    font-size: 30px;
+}
+#sol{
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+}
+#mercurio{
+    clear: left;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+#venus{
+    clear: right;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+}
+#terra{
+    clear: left;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+#marte{
+    clear: right;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+    margin-bottom: 30px;
+}
+#jupiter{
+    clear: left;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+}
+#saturno{
+    clear: right;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+}
+#urano{
+    clear: left;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+}
+#netuno{
+    clear: right;
+    padding: 20px;
+    margin: 10px;
+    background: linear-gradient(90deg,rgba(40, 22, 64, 1) 0%, rgba(71, 0, 163, 1) 50%, rgba(97, 0, 110, 1) 100%);
+    border-radius: 50px;
+}
+
+header{
+    text-align: center;
+    font-size: 60px;
+    margin: 20px;
+}
+div h2{
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+/*footer*/
+footer{
+    clear: both;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}

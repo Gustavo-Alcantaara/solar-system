@@ -1,6 +1,6 @@
 function soldim(){
     var s = window.document.getElementById('solImg')
-    s.style.width = '750px'
+    s.style.width = '1000px'
 }
 
-s.addEventListener("touchenter", soldim)
+s.addEventListener("touchmove", soldim)

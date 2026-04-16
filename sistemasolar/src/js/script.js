@@ -4,4 +4,4 @@ function soldim(){
     s.style.width = '1000px'
 }
 
-s.addEventListener("touchmove", soldim)
+s.addEventListener("touchenter", soldim)

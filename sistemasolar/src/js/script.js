@@ -1,5 +1,6 @@
+ var s = window.document.getElementById('solImg')
 function soldim(){
-    var s = window.document.getElementById('solImg')
+   
     s.style.width = '1000px'
 }
 

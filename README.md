@@ -1,2 +1,2 @@
-# solar-system
-projeto pessoal de sistema solar com HTML e CSS simples
+# Solar System
+Projeto pessoal de sistema solar com *HTML*, *CSS* e *JavaScript* simples

@@ -147,3 +147,11 @@ footer{
     position: relative;
     bottom: 10px;
 }
+
+/*Zoom dos planetas*/
+.zoom{
+    transition: transform 1.0s ease;
+}
+.zoom:hover{
+    transform: scale(1.2);
+}
